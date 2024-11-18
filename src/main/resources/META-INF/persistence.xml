@@ -7,6 +7,9 @@
 
         <class>pe.edu.cibertec.entity.Libro</class>
         <class>pe.edu.cibertec.entity.Categoria</class>
+        <class>pe.edu.cibertec.entity.Estudiante</class>
+        <class>pe.edu.cibertec.entity.Curso</class>
+
 
         <properties>
 
